@@ -1,0 +1,8 @@
+X:\termpaper\Debug\termpaper.vcxproj.AssemblyReference.cache
+X:\termpaper\Debug\termpaper.Main.resources
+X:\termpaper\Debug\termpaper.vcxproj.GenerateResource.cache
+X:\termpaper\Debug\termpaper.exe
+X:\termpaper\Debug\termpaper.Add.resources
+X:\termpaper\Debug\termpaper.Change.resources
+X:\termpaper\Debug\termpaper.Delete.resources
+X:\termpaper\Debug\termpaper.MyForm.resources

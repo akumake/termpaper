@@ -1,0 +1,9 @@
+﻿  Add.cpp
+  Change.cpp
+  Delete.cpp
+  Main.cpp
+X:\termpaper\Main.cpp(75,24): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.cpp
+  Создание кода...
+  Add.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  termpaper.vcxproj -> X:\termpaper\Debug\termpaper.exe
